@@ -1,0 +1,13 @@
+Admin
+
+- E-mail: josip.bosnjak3003@gmail.com
+
+- Password: 123456789
+
+User
+
+- E-mail: josip.bosnjak2@gmail.com
+
+- Password: 123456789
+
+

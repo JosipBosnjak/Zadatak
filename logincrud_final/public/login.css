@@ -1,0 +1,66 @@
+body {
+  background-color: #e1e1e1;
+}
+.form-wrapper {
+  border-radius: 7px;
+}
+.form-wrapper label {
+  font-weight: bold;
+}
+.errors li {
+  list-style: none;
+  width: 100%;
+  text-align: center;
+}
+.errors ul {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .form-wrapper .text-right {
+    text-align: center !important;
+  }
+
+  .form-wrapper .btn-primary {
+    display: block;
+    margin: 0 auto;
+  }
+}
+/* Add this to your style.css file */
+
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #043769;
+}
+
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-toggler-icon {
+  background-color: #fff;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.navbar-nav .nav-item.active {
+  border-bottom: 2px solid #007bff;
+}
+
+/* Adjust other Bootstrap components if needed */
